@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Popper Project icon">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="shine" x1="16" y1="14" x2="34" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.48" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#bg)" />
+  <path d="M16 14h28v8H30v28h-9V22H16z" fill="#f8fafc" />
+  <path d="M34 14h14c6.627 0 12 5.373 12 12s-5.373 12-12 12H34v-8h14a4 4 0 1 0 0-8H34z" fill="#bfdbfe" />
+  <path d="M12 12h40a12 12 0 0 1 12 12v0c0 1.1-.9 2-2 2H14a2 2 0 0 1-2-2z" fill="url(#shine)" />
+</svg>

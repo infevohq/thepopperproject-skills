@@ -1,0 +1,4 @@
+interface:
+  display_name: "Migrate to Karl"
+  short_description: "Move research context and project files to Karl"
+  default_prompt: "Use $migrate-to-karl to package my current research task and its files for Karl."
